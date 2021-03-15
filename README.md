@@ -35,8 +35,8 @@ Le fonctionnement du WEB se base sur un système d'échange appelé client-serve
 
 #### Qu'est ce qu'un model Client-Serveur?
 
-- -Le client c’est nous, c’est notre navigateur Web, Chrome, Firefox, Safari, Internet Explorer, etc.
-- -Et le serveur, c’est en fait un ordinateur puissant qui stocke et héberge des sites web .
+- Le client c’est nous, c’est notre navigateur Web, Chrome, Firefox, Safari, Internet Explorer, etc.
+- Et le serveur, c’est en fait un ordinateur puissant qui stocke et héberge des sites web .
 
 ### Qu’est-ce que html?
 Hyper Text Markup Language (HTML), c'est un langage de balises qui définit la structure d'une page web et son contenue.
