@@ -19,12 +19,12 @@ A portfolio is a personal record in which an individual's previous learning and 
 
 ### Setup the local server
 #### For windows users
-- Download Visual studio:
-- Download sublime text:
+- Download Visual studio: https://code.visualstudio.com/#alt-downloads
+- Download sublime text: https://www.sublimetext.com/3
  
 #### For mac os users:   
-- Download Visual studio:
-- Download sublime text:
+- Download Visual studio: https://code.visualstudio.com/#alt-downloads
+- Download sublime text: https://www.sublimetext.com/3
 
 # Definition
 ### What is a web site ?
@@ -80,9 +80,9 @@ il suffit de suivez les étapes suivants:
     </html>
 ```
 
-**START CODING **
+# START CODING
 ------------
-#####Learn HTML TAGs   By Examples
+### Learn HTML TAGs   By Examples
 ------------
 >  ALL HTML FILES MUST HAVE .html EXTENSION
 
