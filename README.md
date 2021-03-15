@@ -54,7 +54,7 @@ il suffit de suivez les étapes suivants:
 
 [![new file](https://i.postimg.cc/vHkpP3hq/Sans-titre-1.png "new file")](http://https://i.postimg.cc/vHkpP3hq/Sans-titre-1.png "new file")
 
-**étape 2: ** cliqué sur  **Save AS**
+**étape 2:** cliqué sur  **Save AS**
 
 [![save as](https://i.postimg.cc/cC6bhnnG/Capture6.png "save as")](http://https://i.postimg.cc/cC6bhnnG/Capture6.png "save as")
 
