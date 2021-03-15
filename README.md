@@ -46,7 +46,7 @@ The operation of the WEB is based on an exchange system called **client-server.*
 ### What is html?
 Hyper Text Markup Language (HTML) is a language of tags that defines the structure of a web page and its content.
 
-[![programming code](https://i.postimg.cc/jSGt7RBj/Capture3.png "programming code")](http://https://i.postimg.cc/jSGt7RBj/Capture3.png "programming code")
+[![html ](https://i.postimg.cc/d0JG0s5b/Capture8.png "html ")](http://https://i.postimg.cc/d0JG0s5b/Capture8.png "html ")
 
 It is based on a system of tags to add titles, paragraphs, images, links ... etc.
 
@@ -57,7 +57,7 @@ It is based on a system of tags to add titles, paragraphs, images, links ... etc
 il suffit de suivez les étapes suivants:
 **step 1:** open the text editor and click on   **File+ New File** 
 
-[![new file](https://i.postimg.cc/vHkpP3hq/Sans-titre-1.png "new file")](http://https://i.postimg.cc/vHkpP3hq/Sans-titre-1.png "new file")
+[![new file](https://i.postimg.cc/x1fKfjxW/Capture9.png "new file")](http://https://i.postimg.cc/x1fKfjxW/Capture9.png "new file")
 
 **Step 2:** click on **Save AS**
 
@@ -66,7 +66,9 @@ il suffit de suivez les étapes suivants:
 
 # Structure of an HTML page:
 
-[![html](https://i.postimg.cc/ncxJZdBX/DOCTYPE-html-html-head-meta-charset-utf-8-title-Ma-page-de-test-title-head-body.png "html")](http://https://i.postimg.cc/ncxJZdBX/DOCTYPE-html-html-head-meta-charset-utf-8-title-Ma-page-de-test-title-head-body.png "html")
+[![html](https://i.postimg.cc/PqFNkT9z/Capture7.png "html")](htthttps://i.postimg.cc/PqFNkT9z/Capture7.pngp:// "html")
+
+##### Exemple: 
     
 ```html
 <!DOCTYPE html>
@@ -76,4 +78,99 @@ il suffit de suivez les étapes suivants:
             <title>My page name </title>
         </head>
     </html>
+```
+
+**START CODING **
+------------
+#####Learn HTML TAGs   By Examples
+------------
+>  ALL HTML FILES MUST HAVE .html EXTENSION
+
+**Example 01** :  HTML div Tag.
+> The tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
+
+```html
+<div> contents</div>
+```
+
+**Example 02** : HTML Headings.
+> **headings** are titles or subtitles that you want to display on a webpage.
+
+```html
+< h1> Titre niveau 1</h1>
+< h2> Titre niveau 1</h2>
+< h3> Titre niveau 1</h3>
+< h4> Titre niveau 1</h4>
+< h5> Titre niveau 1</h5>
+< h6> Titre niveau 1</h6>
+```
+
+**Example 03** :  HTML Paragraphs.
+> The HTML **p** element defines a paragraph.
+
+```html
+<p>
+hello world
+</p>
+```
+
+**Example 03** :  HTML** br **Tag.
+> Insert single line breaks in a text:
+
+```html
+<p>To force<br> line breaks<br> in a text,<br> use the br<br> element.</p>
+
+```
+
+
+**Example 04** :  HTML Links.
+>The HTML **a** tag defines a hyperlink for example [ celec-club.com](http://celec-club.com " celec-club.com")
+
+```html
+<a href="celec-club.com"> celec websit</a>
+```
+
+**Example 05** : HTML Lists (An unordered  list).
+
+```html
+<ul>
+	<li>List1</li>
+	<li>List2</li>
+	<li>List3</li>
+</ul>
+```
+**Example 06** : HTML Lists (An ordered  list).
+```html
+<ol>
+	<li>List1</li>
+	<li>List2</li>
+	<li>List3</li>
+</ol>
+```
+**Example 07** :  ADD images
+> - The src attribute represents the image location
+> -  The **alt **attribute provides alternative information for an image if a user for some reason cannot view it (due to a slow connection).
+
+```html
+<img src="image.jpg"  alt="titre d'image" width="500px" height="600px">
+```
+
+**Example 08** :  HTML Comment Tag.
+> You can add comments to your HTML source by using the following syntax:
+
+```html
+<!--Comment-->
+```
+**Example 09** : HTML input type Attribute
+> You can add comments to your HTML source by using the following syntax:
+
+```html
+<input type="text"  name="text"  placeholder="message">
+```
+**Example 10** : HTML input type Attribute
+> - The **button** tag defines a clickable button.
+> - Always specify the type attribute for a **button** element, to tell browsers what type of **button** it is.
+
+```html
+<button type="button">send </button>
 ```
