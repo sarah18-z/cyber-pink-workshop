@@ -61,10 +61,12 @@ il suffit de suivez les étapes suivants:
 # Structure d'une page HTML:
 [![html](https://i.postimg.cc/ncxJZdBX/DOCTYPE-html-html-head-meta-charset-utf-8-title-Ma-page-de-test-title-head-body.png "html")](http://https://i.postimg.cc/ncxJZdBX/DOCTYPE-html-html-head-meta-charset-utf-8-title-Ma-page-de-test-title-head-body.png "html")
     
-	<!DOCTYPE html>
-    <html>
-        <head>
-            <meta charset="utf-8">
-            <title>My page name </title>
-        </head>
-    </html>
+	```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My page name </title>
+    </head>
+</html>
+```
