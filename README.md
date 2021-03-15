@@ -1,4 +1,4 @@
-# Intro: 
+# Introduction:
 Welcome to today’s workshop!
 Today you will learn everything about websites and how they are built.
 At the end of the workshop, you will be able to create a personal or professional portfolio. 
@@ -149,7 +149,7 @@ hello world
 ```
 **Example 07** :  ADD images
 > - The src attribute represents the image location
-> -  The **alt **attribute provides alternative information for an image if a user for some reason cannot view it (due to a slow connection).
+> -  The **alt** attribute provides alternative information for an image if a user for some reason cannot view it (due to a slow connection).
 
 ```html
 <img src="image.jpg"  alt="titre d'image" width="500px" height="600px">
