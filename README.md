@@ -10,7 +10,6 @@ A portfolio is a personal record in which an individual's previous learning and 
 ------------
 
 [![portfolio](https://i.postimg.cc/4d9cDctM/163074196-1066717383820678-5219087853678590839-n.png "portfolio")](https://i.postimg.cc/4d9cDctM/163074196-1066717383820678-5219087853678590839-n.png "portfolio")
-
 ------------
 
 
