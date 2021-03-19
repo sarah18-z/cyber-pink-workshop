@@ -455,3 +455,7 @@ p {
 }
 ```
 
+# Resources
+- https://www.w3schools.com
+- https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3
+
