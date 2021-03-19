@@ -43,7 +43,7 @@ The operation of the WEB is based on an exchange system called **client-server.*
 - And the server is in fact a powerful computer that stores and hosts websites.
 
 ------------
-### HTML  :tw-2712:
+### HTML  :pencil2:
 ------------
 
 ### What is html?
@@ -180,7 +180,7 @@ hello world
 ```
 
 ------------
-### CSS  :tw-2712:
+### CSS  :pencil2:
 ------------
 
 # what is  CSS :
