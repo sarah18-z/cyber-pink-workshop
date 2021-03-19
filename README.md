@@ -175,3 +175,284 @@ hello world
 ```html
 <button type="button">send </button>
 ```
+
+
+###1.  what is  CSS :
+
+------------
+
+
+- CSS stands for Cascading Style Sheets
+- CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+- CSS saves a lot of work. It can control the layout of multiple web pages all at once
+- External stylesheets are stored in CSS files
+
+### 2. Why Use CSS :
+
+------------
+
+CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
+
+
+### 3.How To Add CSS
+------------
+Three Ways to Insert CSS:
+```css
+- External CSS
+- Internal CSS
+- Inline CSS
+```
+
+### **3.1.External CSS** :
+> Each HTML page must include a reference to the external style sheet file inside the <link> element, inside the head section.
+
+**Example :**
+```css
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+	<h1>This is a heading</h1>
+	<p>This is a paragraph.</p>
+</body>
+</html>
+```
+- An external style sheet can be written in any text editor, and must be saved with a .css extension.
+- The external .css file should not contain any HTML tags.
+
+   Here is how the "mystyle.css" file looks:
+
+```css
+   body {
+         background-color: blue;
+       }
+
+	h1 {
+		  color: dark;
+		  margin-left: 20px;
+  	 }
+```
+## 3.2.Internal CSS:
+> The internal style is defined inside the** style** element, inside the head section.
+
+**Example :**
+```css
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
+</head>
+<body>
+	<h1>This is a heading</h1>
+	<p>This is a paragraph.</p>
+</body>
+</html>
+
+```
+## 3.3.Inline CSS :
+> - An inline style may be used to apply a unique style for a single element.
+- To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
+
+**Example :**
+```css
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="color:blue;text-align:center;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p>
+
+</body>
+</html>
+```
+###4. The CSS id Selector :
+
+------------
+
+> - The id selector uses the id attribute of an HTML element to select a specific element.
+- The id of an element is unique within a page, so the id selector is used to select one unique element!
+- To select an element with a specific id, write a hash (#) character, followed by the id of the element.
+
+**Exemple :**
+> The CSS rule below will be applied to the HTML element with **id="paragraphe"**
+
+```css
+#paragraphe {
+  text-align: center;
+  color: red;
+}
+```
+###6. The CSS class Selector :
+
+------------
+
+> - The .class selector selects elements with a specific class attribute.
+- To select elements with a specific class, write a period (.) character, followed by the name of the class.
+
+**Exemple :**
+>  The CSS rule below will be applied to the HTML element with** class="hello"**
+
+```css
+.hello {
+  text-align: center;
+  color: red;
+}
+```
+
+
+
+###7.CSS Text 
+> **Text color:**
+The color property is used to set the color of the text.
+
+**Example**
+```css
+h1 {
+  color: green ;
+}
+```
+> **Text size:**
+he text-size property is used to change the size of the text.
+
+**Example**
+```css
+h1 {
+  color: red ;
+}
+```
+> ** CSS font-family **:
+In CSS, we use the font-family property to specify the font of a text this is the diffrent faont-family:
+- Serif
+- Sans-serif
+- Monospace
+- Cursive
+- Fantasy
+- Times New Roman
+
+**Example :**
+```css
+p{
+  font-family: "Times New Roman";
+}
+```
+###7.CSS Margins :
+> The CSS margin properties are used to create space around elements, outside of any defined borders.
+
+1. **Margin - Individual Sides :**
+- margin-top
+- margin-right
+- margin-bottom
+- margin-left
+
+**Example :**
+```css
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+```
+ 2.**  Margin - Shorthand Property  : **
+>  margin: top right bottom left ;
+
+**Example :**
+
+```css
+p {
+  margin: 10x 12px 13px 14px ;
+}
+```
+###8.CSS padding :
+> Padding is used to create space around an element's content, inside of any defined borders.
+
+**1. Padding - Individual Sides :**
+- padding-top
+- padding-right
+- padding-bottom
+
+- padding-left
+
+**Example :**
+```css
+div{
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+```
+
+**2.Padding - Shorthand Property :**
+> padding: top right bottom left ;
+
+```css
+div {
+  padding: 25px 50px 75px 100px;
+}
+```
+###9.CSS Background :
+> The CSS background properties are used to add background effects for elements.
+
+**CSS background-color :**
+The background-color property specifies the background color of an element.
+
+**Example :**:
+```css
+body {
+  background-color: #1D1E20 
+}
+```
+###10.CSS Outline :
+> An outline is a line that is drawn around elements, OUTSIDE the borders, to make the element "stand out".
+
+![](https://i.postimg.cc/T1zCx17s/Capture-web-19-3-2021-85322-www-w3schools-com.jpg)
+
+
+**Example :**:
+> none - Defines no outline
+
+```css
+p{
+outline: none;
+}
+```
+###11.The display Property: 
+> - The display property specifies if/how an element is displayed.
+- Every HTML element has a default display value depending on what type of element it is. The default display value for most elements is **block** or** inline.**.
+
+**Example :**
+```css
+/*display inline*/
+li {
+  display: inline;
+}
+/*display block*/
+span {
+  display: block;
+}
+```
+
+###12. ADD Coments : 
+> CSS comments are not displayed in the browser, but they can help document your source code.
+
+**Example :**:
+```css
+/* This is a  comment */
+p {
+  color: red;
+}
+```
+
+
