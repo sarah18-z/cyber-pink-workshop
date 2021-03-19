@@ -7,11 +7,11 @@ At the end of the workshop, you will be able to create a personal or professiona
 
 A portfolio is a personal record in which an individual's previous learning and experience is identified and demonstrated for recognition by an educational institution or employer. It differs from a resume in the sense that the information it contains is constructed with a purpose, such as a job application, and it must also present support for the individual's learning.
 
-
-
-
+------------
 
 [![portfolio](https://i.postimg.cc/4d9cDctM/163074196-1066717383820678-5219087853678590839-n.png "portfolio")](https://i.postimg.cc/4d9cDctM/163074196-1066717383820678-5219087853678590839-n.png "portfolio")
+
+------------
 
 
 # Requirements
