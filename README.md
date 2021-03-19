@@ -101,12 +101,12 @@ il suffit de suivez les étapes suivants:
 > **headings** are titles or subtitles that you want to display on a webpage.
 
 ```html
-< h1> Titre niveau 1</h1>
-< h2> Titre niveau 1</h2>
-< h3> Titre niveau 1</h3>
-< h4> Titre niveau 1</h4>
-< h5> Titre niveau 1</h5>
-< h6> Titre niveau 1</h6>
+<h1> Titre niveau 1</h1>
+<h2> Titre niveau 1</h2>
+<h3> Titre niveau 1</h3>
+<h4> Titre niveau 1</h4>
+<h5> Titre niveau 1</h5>
+<h6> Titre niveau 1</h6>
 ```
 
 **Example 03** :  HTML Paragraphs.
@@ -118,7 +118,7 @@ hello world
 </p>
 ```
 
-**Example 03** :  HTML** br **Tag.
+**Example 03** :  HTML **br** Tag.
 > Insert single line breaks in a text:
 
 ```html
@@ -131,7 +131,7 @@ hello world
 >The HTML **a** tag defines a hyperlink for example [ celec-club.com](http://celec-club.com " celec-club.com")
 
 ```html
-<a href="celec-club.com"> celec websit</a>
+<a href="celec-club.com"> celec website</a>
 ```
 
 **Example 05** : HTML Lists (An unordered  list).
@@ -235,7 +235,7 @@ Three Ways to Insert CSS:
   	 }
 ```
 ### Internal CSS:
-> The internal style is defined inside the** style** element, inside the head section.
+> The internal style is defined inside the **style** element, inside the head section.
 
 **Example :**
 ```css
@@ -301,7 +301,7 @@ h1 {
 - To select elements with a specific class, write a period (.) character, followed by the name of the class.
 
 **Exemple :**
->  The CSS rule below will be applied to the HTML element with** class="hello"**
+>  The CSS rule below will be applied to the HTML element with **class="hello"**
 
 ```css
 .hello {
@@ -331,7 +331,7 @@ h1 {
   color: red ;
 }
 ```
-> ** CSS font-family **:
+> **CSS font-family**:
 In CSS, we use the font-family property to specify the font of a text this is the diffrent faont-family:
 - Serif
 - Sans-serif
@@ -364,7 +364,7 @@ p {
   margin-left: 80px;
 }
 ```
- 2.**  Margin - Shorthand Property  : **
+ 2.**Margin - Shorthand Property  :**
 >  margin: top right bottom left ;
 
 **Example :**
