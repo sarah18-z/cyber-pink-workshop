@@ -53,7 +53,7 @@ Hyper Text Markup Language (HTML) is a language of tags that defines the structu
 
 It is based on a system of tags to add titles, paragraphs, images, links ... etc.
 
-[![tag](https://i.postimg.cc/Yqh5fJ6L/Capture4.png "tag")](http://https://i.postimg.cc/Yqh5fJ6L/Capture4.png "tag")
+[![tag](https://i.postimg.cc/mZjN3YLZ/Capture10.png "tag")](https://i.postimg.cc/mZjN3YLZ/Capture10.png "tag")
 
 
 ### Create your first web page:
