@@ -42,6 +42,9 @@ The operation of the WEB is based on an exchange system called **client-server.*
 - The client is us, it's our web browser, Chrome, Firefox, Safari, Internet Explorer, etc.
 - And the server is in fact a powerful computer that stores and hosts websites.
 
+------------
+###HTML  :tw-270f: :tw-270f: 
+------------
 
 ### What is html?
 Hyper Text Markup Language (HTML) is a language of tags that defines the structure of a web page and its content.
@@ -176,26 +179,26 @@ hello world
 <button type="button">send </button>
 ```
 
-
-###1.  what is  CSS :
-
+------------
+###CSS  :tw-270f: :tw-270f: 
 ------------
 
+# Definition
+
+
+### what is  CSS :
 
 - CSS stands for Cascading Style Sheets
 - CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 - CSS saves a lot of work. It can control the layout of multiple web pages all at once
 - External stylesheets are stored in CSS files
 
-### 2. Why Use CSS :
-
-------------
+### Why Use CSS :
 
 CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
 
 
-### 3.How To Add CSS
-------------
+### How To Add CSS
 Three Ways to Insert CSS:
 ```css
 - External CSS
@@ -203,7 +206,7 @@ Three Ways to Insert CSS:
 - Inline CSS
 ```
 
-### **3.1.External CSS** :
+#### External CSS :
 > Each HTML page must include a reference to the external style sheet file inside the <link> element, inside the head section.
 
 **Example :**
@@ -234,7 +237,7 @@ Three Ways to Insert CSS:
 		  margin-left: 20px;
   	 }
 ```
-## 3.2.Internal CSS:
+#### Internal CSS:
 > The internal style is defined inside the** style** element, inside the head section.
 
 **Example :**
@@ -260,7 +263,7 @@ h1 {
 </html>
 
 ```
-## 3.3.Inline CSS :
+#### Inline CSS :
 > - An inline style may be used to apply a unique style for a single element.
 - To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
 
@@ -276,7 +279,7 @@ h1 {
 </body>
 </html>
 ```
-###4. The CSS id Selector :
+###The CSS id Selector :
 
 ------------
 
@@ -293,7 +296,7 @@ h1 {
   color: red;
 }
 ```
-###6. The CSS class Selector :
+###The CSS class Selector :
 
 ------------
 
@@ -312,7 +315,7 @@ h1 {
 
 
 
-###7.CSS Text 
+###CSS Text 
 > **Text color:**
 The color property is used to set the color of the text.
 
@@ -346,7 +349,7 @@ p{
   font-family: "Times New Roman";
 }
 ```
-###7.CSS Margins :
+###CSS Margins :
 > The CSS margin properties are used to create space around elements, outside of any defined borders.
 
 1. **Margin - Individual Sides :**
@@ -374,7 +377,7 @@ p {
   margin: 10x 12px 13px 14px ;
 }
 ```
-###8.CSS padding :
+###CSS padding :
 > Padding is used to create space around an element's content, inside of any defined borders.
 
 **1. Padding - Individual Sides :**
@@ -402,7 +405,7 @@ div {
   padding: 25px 50px 75px 100px;
 }
 ```
-###9.CSS Background :
+###CSS Background :
 > The CSS background properties are used to add background effects for elements.
 
 **CSS background-color :**
@@ -414,7 +417,7 @@ body {
   background-color: #1D1E20 
 }
 ```
-###10.CSS Outline :
+###CSS Outline :
 > An outline is a line that is drawn around elements, OUTSIDE the borders, to make the element "stand out".
 
 ![](https://i.postimg.cc/T1zCx17s/Capture-web-19-3-2021-85322-www-w3schools-com.jpg)
@@ -428,7 +431,7 @@ p{
 outline: none;
 }
 ```
-###11.The display Property: 
+###The display Property: 
 > - The display property specifies if/how an element is displayed.
 - Every HTML element has a default display value depending on what type of element it is. The default display value for most elements is **block** or** inline.**.
 
@@ -444,7 +447,7 @@ span {
 }
 ```
 
-###12. ADD Coments : 
+###ADD Coments : 
 > CSS comments are not displayed in the browser, but they can help document your source code.
 
 **Example :**:
@@ -454,5 +457,4 @@ p {
   color: red;
 }
 ```
-
 
